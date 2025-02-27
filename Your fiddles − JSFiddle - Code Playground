@@ -1,0 +1,1042 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://jsfiddle.net/user/fiddles/all/
+Subject: =?utf-8?Q?Your=20fiddles=20=E2=88=92=20JSFiddle=20-=20Code=20Playground?=
+Date: Thu, 27 Feb 2025 21:43:22 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----"
+
+
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----
+Content-Type: text/html
+Content-ID: <frame-0FB33A8529B0DDDFF7241991C39F98B6@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://jsfiddle.net/user/fiddles/all/
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-a0cb17a5-335e-41e0-b2b2-01ecb7c0f148@mhtml.blink" />
+    
+    <meta name="description" edit="JSFiddle - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle.">
+    <meta name="keywords" edit="online javascript editor, testing javascript online, online ide, online code editor, html, css, coffeescript, scss online editor">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex, nofollow">
+    <meta name="author" edit="JSFiddle">
+    <meta name="copyright" content="share alike">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;display=swap" rel="stylesheet">
+
+    <link rel="icon" href="https://jsfiddle.net/img/favicon.png">
+
+    <link rel="stylesheet" media="screen" href="https://jsfiddle.net/css/dist-pages.css?067ce3054141bba57e9333c8306495e310426db9">
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="M1Z1OrRAmjdr75eWFtAlYTjrH5cvqs4VUjV2FhuKJwoGlaukT3QWwEccqVaVAxXMN+jJkfHCPnxtsUpKm0n/yg==">
+
+    <title>Your fiddles − JSFiddle - Code Playground</title>
+  <div id="_bsa_srv-CKYD52JI_0"></div></head>
+  <body id="user-page" class="fullyLoaded">
+    <header id="header">
+      <h1>
+        <a data-tippy-simple-content="Create a new fiddle" href="https://jsfiddle.net/">
+          <svg width="46px" height="33px" viewBox="0 0 46 33">
+            <g stroke-width="2" fill="none" fill-rule="evenodd">
+              <path d="M23.4888889,20.543316 C21.4404656,18.4187374 19.0750303,15.6666667 16.4832014,15.6666667 C13.8721947,15.6666667 11.7555556,17.6366138 11.7555556,20.0666667 C11.7555556,22.4967196 13.8721947,24.4666667 16.4832014,24.4666667 C18.8347252,24.4666667 19.9845474,23.0125628 20.6429148,22.312473" id="Oval-1" stroke-linecap="round"></path>
+              <path d="M22.5111111,19.5900174 C24.5595344,21.7145959 26.9249697,24.4666667 29.5167986,24.4666667 C32.1278053,24.4666667 34.2444444,22.4967196 34.2444444,20.0666667 C34.2444444,17.6366138 32.1278053,15.6666667 29.5167986,15.6666667 C27.1652748,15.6666667 26.0154526,17.1207706 25.3570852,17.8208603" id="Oval-1-Copy" stroke-linecap="round"></path>
+              <path d="M45,22.7331459 C45,19.1499462 42.7950446,16.079593 39.6628004,14.7835315 C39.6774469,14.5246474 39.7003932,14.2674038 39.7003932,14.0035978 C39.7003932,6.82243304 33.8412885,1 26.611593,1 C21.3985635,1 16.9102123,4.03409627 14.8051788,8.41527616 C13.7828502,7.62878013 12.503719,7.15547161 11.1134367,7.15547161 C7.77825654,7.15547161 5.07450503,9.84159999 5.07450503,13.1544315 C5.07450503,13.7760488 5.16938207,14.3779791 5.3477444,14.9418479 C2.74863428,16.4787471 1,19.2867709 1,22.5105187 C1,27.3287502 4.89630545,31.2367856 9.72803666,31.31094 L36.3341301,31.3109406 C41.1201312,31.3406346 45,27.4870665 45,22.7331459 L45,22.7331459 Z" stroke-linejoin="round"></path>
+            </g>
+          </svg>
+          <span class="seoTitle">JSFiddle - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle.</span>
+        </a>
+      </h1>
+
+      <ul class="headerActions">
+        <li>
+          <a href="https://jsfiddle.net/" data-tippy-simple-content="Go to the editor">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
+              <path d="M14 7.5V10H16.5L22 4.5L19.5 2L14 7.5Z"></path>
+              <path d="M9 2H3C2.44772 2 2 2.44772 2 3V9C2 9.55229 2.44772 10 3 10H9C9.55229 10 10 9.55229 10 9V3C10 2.44772 9.55229 2 9 2Z"></path>
+              <path d="M9 14H3C2.44772 14 2 14.4477 2 15V21C2 21.5523 2.44772 22 3 22H9C9.55229 22 10 21.5523 10 21V15C10 14.4477 9.55229 14 9 14Z"></path>
+              <path d="M21 14H15C14.4477 14 14 14.4477 14 15V21C14 21.5523 14.4477 22 15 22H21C21.5523 22 22 21.5523 22 21V15C22 14.4477 21.5523 14 21 14Z"></path>
+            </svg>
+          </a>
+        </li>
+
+          <li>
+            <a href="https://jsfiddle.net/user/fiddles/all/" data-tippy-simple-content="Dashboard">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
+                <path d="M2 18C2 16.4596 2 15.6893 2.34673 15.1235C2.54074 14.8069 2.80693 14.5407 3.12353 14.3467C3.68934 14 4.45956 14 6 14C7.54044 14 8.31066 14 8.87647 14.3467C9.19307 14.5407 9.45926 14.8069 9.65327 15.1235C10 15.6893 10 16.4596 10 18C10 19.5404 10 20.3107 9.65327 20.8765C9.45926 21.1931 9.19307 21.4593 8.87647 21.6533C8.31066 22 7.54044 22 6 22C4.45956 22 3.68934 22 3.12353 21.6533C2.80693 21.4593 2.54074 21.1931 2.34673 20.8765C2 20.3107 2 19.5404 2 18Z"></path>
+                <path d="M14 18C14 16.4596 14 15.6893 14.3467 15.1235C14.5407 14.8069 14.8069 14.5407 15.1235 14.3467C15.6893 14 16.4596 14 18 14C19.5404 14 20.3107 14 20.8765 14.3467C21.1931 14.5407 21.4593 14.8069 21.6533 15.1235C22 15.6893 22 16.4596 22 18C22 19.5404 22 20.3107 21.6533 20.8765C21.4593 21.1931 21.1931 21.4593 20.8765 21.6533C20.3107 22 19.5404 22 18 22C16.4596 22 15.6893 22 15.1235 21.6533C14.8069 21.4593 14.5407 21.1931 14.3467 20.8765C14 20.3107 14 19.5404 14 18Z"></path>
+                <path d="M2 6C2 4.45956 2 3.68934 2.34673 3.12353C2.54074 2.80693 2.80693 2.54074 3.12353 2.34673C3.68934 2 4.45956 2 6 2C7.54044 2 8.31066 2 8.87647 2.34673C9.19307 2.54074 9.45926 2.80693 9.65327 3.12353C10 3.68934 10 4.45956 10 6C10 7.54044 10 8.31066 9.65327 8.87647C9.45926 9.19307 9.19307 9.45926 8.87647 9.65327C8.31066 10 7.54044 10 6 10C4.45956 10 3.68934 10 3.12353 9.65327C2.80693 9.45926 2.54074 9.19307 2.34673 8.87647C2 8.31066 2 7.54044 2 6Z"></path>
+                <path d="M14 6C14 4.45956 14 3.68934 14.3467 3.12353C14.5407 2.80693 14.8069 2.54074 15.1235 2.34673C15.6893 2 16.4596 2 18 2C19.5404 2 20.3107 2 20.8765 2.34673C21.1931 2.54074 21.4593 2.80693 21.6533 3.12353C22 3.68934 22 4.45956 22 6C22 7.54044 22 8.31066 21.6533 8.87647C21.4593 9.19307 21.1931 9.45926 20.8765 9.65327C20.3107 10 19.5404 10 18 10C16.4596 10 15.6893 10 15.1235 9.65327C14.8069 9.45926 14.5407 9.19307 14.3467 8.87647C14 8.31066 14 7.54044 14 6Z"></path>
+              </svg>
+             </a>
+          </li>
+          <li>
+            <a href="https://jsfiddle.net/u/chatchawaljorasa/fiddles/" data-tippy-simple-content="Your public profile as people see it">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2" fill="none" stroke="currentColor"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></g></svg>
+            </a>
+          </li>
+          <li class="divider"></li>
+          <li>
+            <a href="https://jsfiddle.net/user/settings/profile/" data-tippy-simple-content="Account settings">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
+                <path d="M11 12C11 13.6569 9.65685 15 8 15C6.34315 15 5 13.6569 5 12C5 10.3431 6.34315 9 8 9C9.65685 9 11 10.3431 11 12Z"></path>
+                <path d="M16 6H8C4.68629 6 2 8.68629 2 12C2 15.3137 4.68629 18 8 18H16C19.3137 18 22 15.3137 22 12C22 8.68629 19.3137 6 16 6Z"></path>
+              </svg>
+              <span>Settings</span></a>
+          </li>
+          <li>
+            <a data-spec-desc="logout-link" data-tippy-simple-content="Logout" href="https://jsfiddle.net/user/logout/">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2" fill="none" stroke="currentColor"><path d="M10 22H5a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h5"></path><path d="M17 16l4-4-4-4"></path><path d="M21 12H9"></path></g></svg>
+            </a>
+          </li>
+
+          <li class="proButton">
+            <a href="https://jsfiddle.net/pro/" class="showModalTrigger" data-modal-id="modal-pro">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g stroke-linecap="round" class="nc-icon-wrapper" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"></path></g></svg>
+              <span>Go PRO</span></a>
+          </li>
+      </ul>
+    </header>
+
+    <main id="layout-container">
+
+
+      <div id="menu">
+  <ul class="commonActions">
+      <li class="selected">
+        <a href="https://jsfiddle.net/user/fiddles/">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none">
+            <path opacity="0.4" d="M18.0366 1.25C18.7757 1.24999 19.3832 1.24998 19.8747 1.29671C20.3854 1.34527 20.8478 1.44953 21.2683 1.70725C21.6859 1.9631 22.0369 2.31414 22.2928 2.73166C22.5505 3.15221 22.6547 3.61456 22.7033 4.12529C22.75 4.61678 22.75 5.22429 22.75 5.96343V5.96344V6.03656V6.03658C22.75 6.77571 22.75 7.38322 22.7033 7.87471C22.6547 8.38544 22.5505 8.84779 22.2928 9.26834C22.0369 9.68586 21.6859 10.0369 21.2683 10.2928C20.8478 10.5505 20.3854 10.6547 19.8747 10.7033C19.3832 10.75 18.7757 10.75 18.0366 10.75H18.0366H17.9634H17.9634C17.2243 10.75 16.6168 10.75 16.1253 10.7033C15.6146 10.6547 15.1522 10.5505 14.7317 10.2928C14.3141 10.0369 13.9631 9.68586 13.7072 9.26834C13.4495 8.84779 13.3453 8.38544 13.2967 7.87471C13.25 7.38322 13.25 6.7757 13.25 6.03656V6.03655V5.96345V5.96344C13.25 5.2243 13.25 4.61679 13.2967 4.12529C13.3453 3.61456 13.4495 3.15221 13.7072 2.73166C13.9631 2.31414 14.3141 1.9631 14.7317 1.70725C15.1522 1.44953 15.6146 1.34527 16.1253 1.29671C16.6168 1.24998 17.2243 1.24999 17.9634 1.25H17.9635H18.0365H18.0366Z" fill="currentColor"></path>
+            <path d="M6.03656 1.25C6.7757 1.24999 7.38322 1.24998 7.87471 1.29671C8.38544 1.34527 8.84779 1.44953 9.26834 1.70725C9.68586 1.9631 10.0369 2.31414 10.2928 2.73166C10.5505 3.15221 10.6547 3.61456 10.7033 4.12529C10.75 4.61678 10.75 5.22429 10.75 5.96343V5.96344V6.03656V6.03658C10.75 6.77571 10.75 7.38322 10.7033 7.87471C10.6547 8.38544 10.5505 8.84779 10.2928 9.26834C10.0369 9.68586 9.68586 10.0369 9.26834 10.2928C8.84779 10.5505 8.38544 10.6547 7.87471 10.7033C7.38322 10.75 6.77571 10.75 6.03658 10.75H6.03656H5.96344H5.96343C5.22429 10.75 4.61678 10.75 4.12529 10.7033C3.61456 10.6547 3.15221 10.5505 2.73166 10.2928C2.31414 10.0369 1.9631 9.68586 1.70725 9.26834C1.44953 8.84779 1.34527 8.38544 1.29671 7.87471C1.24998 7.38322 1.24999 6.7757 1.25 6.03656V6.03655V5.96345V5.96344C1.24999 5.2243 1.24998 4.61679 1.29671 4.12529C1.34527 3.61456 1.44953 3.15221 1.70725 2.73166C1.9631 2.31414 2.31414 1.9631 2.73166 1.70725C3.15221 1.44953 3.61456 1.34527 4.12529 1.29671C4.61678 1.24998 5.2243 1.24999 5.96344 1.25H5.96345H6.03655H6.03656Z" fill="currentColor"></path>
+            <path d="M18.0366 13.25C18.7757 13.25 19.3832 13.25 19.8747 13.2967C20.3854 13.3453 20.8478 13.4495 21.2683 13.7072C21.6859 13.9631 22.0369 14.3141 22.2928 14.7317C22.5505 15.1522 22.6547 15.6146 22.7033 16.1253C22.75 16.6168 22.75 17.2243 22.75 17.9634V17.9634V18.0366V18.0366C22.75 18.7757 22.75 19.3832 22.7033 19.8747C22.6547 20.3854 22.5505 20.8478 22.2928 21.2683C22.0369 21.6859 21.6859 22.0369 21.2683 22.2928C20.8478 22.5505 20.3854 22.6547 19.8747 22.7033C19.3832 22.75 18.7757 22.75 18.0366 22.75H18.0366H17.9634H17.9634C17.2243 22.75 16.6168 22.75 16.1253 22.7033C15.6146 22.6547 15.1522 22.5505 14.7317 22.2928C14.3141 22.0369 13.9631 21.6859 13.7072 21.2683C13.4495 20.8478 13.3453 20.3854 13.2967 19.8747C13.25 19.3832 13.25 18.7757 13.25 18.0366V18.0365V17.9635V17.9634C13.25 17.2243 13.25 16.6168 13.2967 16.1253C13.3453 15.6146 13.4495 15.1522 13.7072 14.7317C13.9631 14.3141 14.3141 13.9631 14.7317 13.7072C15.1522 13.4495 15.6146 13.3453 16.1253 13.2967C16.6168 13.25 17.2243 13.25 17.9634 13.25H17.9635H18.0365H18.0366Z" fill="currentColor"></path>
+            <path opacity="0.4" d="M6.03656 13.25C6.7757 13.25 7.38322 13.25 7.87471 13.2967C8.38544 13.3453 8.84779 13.4495 9.26834 13.7072C9.68586 13.9631 10.0369 14.3141 10.2928 14.7317C10.5505 15.1522 10.6547 15.6146 10.7033 16.1253C10.75 16.6168 10.75 17.2243 10.75 17.9634V17.9634V18.0366V18.0366C10.75 18.7757 10.75 19.3832 10.7033 19.8747C10.6547 20.3854 10.5505 20.8478 10.2928 21.2683C10.0369 21.6859 9.68586 22.0369 9.26834 22.2928C8.84779 22.5505 8.38544 22.6547 7.87471 22.7033C7.38322 22.75 6.77571 22.75 6.03658 22.75H6.03656H5.96344H5.96343C5.22429 22.75 4.61678 22.75 4.12529 22.7033C3.61456 22.6547 3.15221 22.5505 2.73166 22.2928C2.31414 22.0369 1.9631 21.6859 1.70725 21.2683C1.44953 20.8478 1.34527 20.3854 1.29671 19.8747C1.24998 19.3832 1.24999 18.7757 1.25 18.0366V18.0365V17.9635V17.9634C1.24999 17.2243 1.24998 16.6168 1.29671 16.1253C1.34527 15.6146 1.44953 15.1522 1.70725 14.7317C1.9631 14.3141 2.31414 13.9631 2.73166 13.7072C3.15221 13.4495 3.61456 13.3453 4.12529 13.2967C4.61678 13.25 5.2243 13.25 5.96344 13.25H5.96345H6.03655H6.03656Z" fill="currentColor"></path>
+          </svg>
+          <span>Your fiddles</span>
+        </a>
+        <aside id="user-menu-fiddles" aria-expanded="false">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none">
+            <path d="M18.593 8.19486C19.0376 8.52237 19.1326 9.14837 18.8051 9.59306C18.5507 9.93847 18.2963 10.2668 18.0731 10.5528C17.6276 11.1236 17.0143 11.8882 16.3479 12.6556C15.6859 13.4181 14.9518 14.2064 14.2666 14.8119C13.9251 15.1136 13.5721 15.3911 13.2279 15.5986C12.9112 15.7895 12.476 16 11.9999 16C11.5238 16 11.0885 15.7895 10.7718 15.5986C10.4276 15.3911 10.0747 15.1136 9.7332 14.8119C9.04791 14.2064 8.31387 13.4181 7.65183 12.6556C6.98548 11.8882 6.37216 11.1236 5.92664 10.5528C5.70347 10.2668 5.44902 9.93847 5.19463 9.59307C4.86712 9.14837 4.96211 8.52237 5.4068 8.19486C5.58556 8.0632 5.79362 7.99983 5.99982 8L11.9999 8L17.9999 8C18.2061 7.99983 18.4142 8.0632 18.593 8.19486Z" fill="currentColor"></path>
+          </svg>
+        </aside>
+      </li>
+      <li class="">
+        <a href="https://jsfiddle.net/user/collections/">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none">
+            <path d="M9.93417 1.25L10 1.25L14.0658 1.25C14.9523 1.24995 15.7161 1.24991 16.3278 1.33215C16.9833 1.42028 17.6117 1.61902 18.1213 2.12868C18.631 2.63835 18.8297 3.2667 18.9179 3.92221C19.0001 4.53387 19.0001 5.29769 19 6.18417L19 6.25C19 6.80229 18.5523 7.25 18 7.25C17.4477 7.25 17 6.80229 17 6.25C17 5.27893 16.9979 4.65122 16.9357 4.18871C16.8774 3.75497 16.7832 3.61902 16.7071 3.5429C16.631 3.46677 16.495 3.37263 16.0613 3.31431C15.5988 3.25213 14.9711 3.25 14 3.25H10C9.02893 3.25 8.40122 3.25213 7.93871 3.31431C7.50497 3.37263 7.36902 3.46677 7.2929 3.5429C7.21677 3.61902 7.12263 3.75497 7.06431 4.18871C7.00213 4.65122 7 5.27893 7 6.25C7 6.80229 6.55229 7.25 6 7.25C5.44772 7.25 5 6.80229 5 6.25L5 6.18417C4.99995 5.29769 4.99991 4.53387 5.08215 3.92221C5.17028 3.2667 5.36902 2.63835 5.87868 2.12868C6.38835 1.61902 7.0167 1.42028 7.67221 1.33215C8.28387 1.24991 9.04769 1.24995 9.93417 1.25Z" fill="currentColor"></path>
+            <path opacity="0.4" d="M16.0391 9.25C17.1754 9.24999 18.0826 9.24998 18.8104 9.32056C19.558 9.39306 20.1948 9.54555 20.7611 9.90142C21.3018 10.2411 21.7589 10.6982 22.0986 11.2389C22.4544 11.8052 22.6069 12.442 22.6794 13.1896C22.75 13.9174 22.75 14.8246 22.75 15.9609V16.0391C22.75 17.1754 22.75 18.0826 22.6794 18.8104C22.6069 19.558 22.4544 20.1948 22.0986 20.7611C21.7589 21.3018 21.3018 21.7589 20.7611 22.0986C20.1948 22.4544 19.558 22.6069 18.8104 22.6794C18.0826 22.75 17.1754 22.75 16.0391 22.75H7.96092C6.82461 22.75 5.91736 22.75 5.18963 22.6794C4.44204 22.6069 3.80522 22.4544 3.23886 22.0986C2.69825 21.7589 2.24111 21.3018 1.90142 20.7611C1.54555 20.1948 1.39306 19.558 1.32056 18.8104C1.24998 18.0826 1.24999 17.1754 1.25 16.0391V16.0391V15.9609V15.9609C1.24999 14.8246 1.24998 13.9174 1.32056 13.1896C1.39306 12.442 1.54555 11.8052 1.90142 11.2389C2.24111 10.6982 2.69825 10.2411 3.23886 9.90142C3.80522 9.54555 4.44204 9.39306 5.18963 9.32056C5.91736 9.24998 6.82462 9.24999 7.96093 9.25H7.96094H16.0391H16.0391Z" fill="currentColor"></path>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M9 13C9.55228 13 10 13.4477 10 14C10 14.5523 10.4477 15 11 15H13C13.5523 15 14 14.5523 14 14C14 13.4477 14.4477 13 15 13C15.5523 13 16 13.4477 16 14C16 15.6569 14.6569 17 13 17H11C9.34315 17 8 15.6569 8 14C8 13.4477 8.44772 13 9 13Z" fill="currentColor"></path>
+            <path d="M16.0402 5.25H7.95983C7.29398 5.24999 6.73442 5.24998 6.27656 5.28738C5.79784 5.3265 5.34288 5.41144 4.91102 5.63148C4.25245 5.96704 3.71702 6.50247 3.38147 7.16104C3.16142 7.59289 3.07648 8.04785 3.03737 8.52658C3.00274 8.9504 3.00018 9.46132 3 10.0631C3.07764 10.0066 3.1573 9.95267 3.23885 9.90142C3.75778 9.57536 4.33585 9.42003 5.00409 9.34053C5.00802 9.0849 5.01571 8.87328 5.03073 8.68944C5.05974 8.3344 5.11104 8.17194 5.16348 8.06902C5.30729 7.78677 5.53676 7.5573 5.819 7.41349C5.92193 7.36105 6.08439 7.30975 6.43943 7.28074C6.80614 7.25078 7.28342 7.25 7.99999 7.25H16C16.7166 7.25 17.1938 7.25078 17.5606 7.28074C17.9156 7.30975 18.0781 7.36105 18.181 7.41349C18.4632 7.5573 18.6927 7.78677 18.8365 8.06902C18.8889 8.17194 18.9402 8.3344 18.9692 8.68944C18.9843 8.87328 18.992 9.08491 18.9959 9.34054C19.6641 9.42004 20.2422 9.57536 20.7611 9.90142C20.8427 9.95267 20.9223 10.0066 21 10.0631C20.9998 9.46132 20.9972 8.9504 20.9626 8.52658C20.9235 8.04785 20.8386 7.59289 20.6185 7.16104C20.283 6.50247 19.7475 5.96704 19.089 5.63148C18.6571 5.41144 18.2021 5.3265 17.7234 5.28738C17.2656 5.24998 16.706 5.24999 16.0402 5.25Z" fill="currentColor"></path>
+          </svg>
+          <span>Your collections</span>
+        </a>
+        <aside id="user-menu-groups" aria-expanded="false">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none">
+            <path d="M18.593 8.19486C19.0376 8.52237 19.1326 9.14837 18.8051 9.59306C18.5507 9.93847 18.2963 10.2668 18.0731 10.5528C17.6276 11.1236 17.0143 11.8882 16.3479 12.6556C15.6859 13.4181 14.9518 14.2064 14.2666 14.8119C13.9251 15.1136 13.5721 15.3911 13.2279 15.5986C12.9112 15.7895 12.476 16 11.9999 16C11.5238 16 11.0885 15.7895 10.7718 15.5986C10.4276 15.3911 10.0747 15.1136 9.7332 14.8119C9.04791 14.2064 8.31387 13.4181 7.65183 12.6556C6.98548 11.8882 6.37216 11.1236 5.92664 10.5528C5.70347 10.2668 5.44902 9.93847 5.19463 9.59307C4.86712 9.14837 4.96211 8.52237 5.4068 8.19486C5.58556 8.0632 5.79362 7.99983 5.99982 8L11.9999 8L17.9999 8C18.2061 7.99983 18.4142 8.0632 18.593 8.19486Z" fill="currentColor"></path>
+          </svg>
+        </aside>
+      </li>
+
+  </ul>
+</div>
+
+      
+
+      <div id="content">
+        <div id="body">
+
+            <form class="new_search" id="simple-search" action="https://jsfiddle.net/user/fiddles/all/" accept-charset="UTF-8" method="get">
+    <input placeholder="Search for your fiddles" type="search" name="search[q]" id="search_q">
+    <select name="search[filter]" id="search_filter"><option value="all">All</option>
+<option value="title">Title</option>
+<option value="title_description">Title and description</option>
+<option value="code">Code</option></select>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none">
+      <path d="M18.593 8.19486C19.0376 8.52237 19.1326 9.14837 18.8051 9.59306C18.5507 9.93847 18.2963 10.2668 18.0731 10.5528C17.6276 11.1236 17.0143 11.8882 16.3479 12.6556C15.6859 13.4181 14.9518 14.2064 14.2666 14.8119C13.9251 15.1136 13.5721 15.3911 13.2279 15.5986C12.9112 15.7895 12.476 16 11.9999 16C11.5238 16 11.0885 15.7895 10.7718 15.5986C10.4276 15.3911 10.0747 15.1136 9.7332 14.8119C9.04791 14.2064 8.31387 13.4181 7.65183 12.6556C6.98548 11.8882 6.37216 11.1236 5.92664 10.5528C5.70347 10.2668 5.44902 9.93847 5.19463 9.59307C4.86712 9.14837 4.96211 8.52237 5.4068 8.19486C5.58556 8.0632 5.79362 7.99983 5.99982 8L11.9999 8L17.9999 8C18.2061 7.99983 18.4142 8.0632 18.593 8.19486Z" fill="currentColor"></path>
+    </svg>
+</form>
+  <section id="list-fiddles">
+        <div class="lfCont">
+      <span class="previewCont">
+        <div id="_bsa_viewable_check_532"></div>
+      </span>
+    </div>
+
+<div class="lfCont" id="fiddle-300848358">
+  <a class="previewCont" href="https://jsfiddle.net/chatchawaljorasa/xy4tje93/" target="_blank">
+    <iframe src="cid:frame-D1CACA9EBE705D13CAB072BD38615ECA@mhtml.blink" loading="lazy" width="100%" height="200" frameborder="0" allowtransparency="true" sandbox="allow-scripts allow-same-origin"></iframe>
+  </a>
+  <h3>Import fiddle as a JS Module - chain fiddles together</h3>
+      <ul class="lfActions commonActions">
+        <li>
+          <a href="https://jsfiddle.net/user/fiddles/all/#" data-tippy-simple-content="Manage fiddle" data-dropdown-ref="lfaID-300848358" aria-expanded="false">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M11.9959 12H12.0049"></path><path d="M17.9998 12H18.0088"></path><path d="M5.99981 12H6.00879"></path>
+            </svg>
+          </a>
+        </li>
+      </ul>
+
+  <div class="privateBadge hidden">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="currentColor" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 16.5V14.5"></path>
+      <path d="M4.26781 18.8447C4.49269 20.515 5.87613 21.8235 7.55966 21.9009C8.97627 21.966 10.4153 22 12 22C13.5847 22 15.0237 21.966 16.4403 21.9009C18.1239 21.8235 19.5073 20.515 19.7322 18.8447C19.879 17.7547 20 16.6376 20 15.5C20 14.3624 19.879 13.2453 19.7322 12.1553C19.5073 10.485 18.1239 9.17649 16.4403 9.09909C15.0237 9.03397 13.5847 9 12 9C10.4153 9 8.97627 9.03397 7.55966 9.09909C5.87613 9.17649 4.49269 10.485 4.26781 12.1553C4.12104 13.2453 4 14.3624 4 15.5C4 16.6376 4.12104 17.7547 4.26781 18.8447Z"></path>
+      <path d="M7.5 9V6.5C7.5 4.01472 9.51472 2 12 2C14.4853 2 16.5 4.01472 16.5 6.5V9"></path>
+    </svg>
+  </div>
+</div> <!-- /lfCont -->
+
+    
+
+
+  </section> <!-- /list-fiddles -->
+
+
+
+        </div> <!-- /body -->
+      </div>
+    </main>
+
+    
+
+    
+
+
+    
+<!-- Google tag (gtag.js) -->
+
+
+
+
+    
+
+    
+    
+    
+    
+    
+
+      
+      
+  
+
+</body></html>
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://jsfiddle.net/css/dist-pages.css?067ce3054141bba57e9333c8306495e310426db9
+
+@charset "utf-8";
+
+:root { --font-base: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; --font-code: "Monaspace Argon", "Monaco", "Andale Mono", "Lucida Console", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace; --body-bg: light-dark(
+    #f9f9f9,
+    #1E1F1F
+  ); --common-base: light-dark(
+    #f9f9f9,
+    #1E1F1F
+  ); --common-base-rev: light-dark(
+    #1E1F1F,
+    #ededed
+  ); --tooltip-bg-color: light-dark(
+    #1E1F1F,
+    #ededed
+  ); --tooltip-text-color: light-dark(
+    #ededed,
+    #1E1F1F
+  ); --tooltip-shadow-color: light-dark(
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.3)
+  ); --tooltip-hover: light-dark(
+    rgba(0, 0, 0, 0.07),
+    rgba(0, 0, 0, 0.07)
+  ); --text-color-1: light-dark(
+    #1E1F1F,
+    #ededed
+  ); --text-color-2: color-mix(in srgb, var(--text-color-1) 80%, var(--body-bg)); --text-color-3: color-mix(in srgb, var(--text-color-1) 50%, var(--body-bg)); --text-color-4: color-mix(in srgb, var(--text-color-1) 30%, var(--body-bg)); --text-color-5: color-mix(in srgb, var(--text-color-1) 20%, var(--body-bg)); --text-color-rev-1: var(--body-bg); --text-color-rev-2: color-mix(in srgb, var(--text-color-rev-1) 80%, #ffffff); --text-color-rev-3: color-mix(in srgb, var(--text-color-rev-1) 50%, #ffffff); --text-color-error: #fb423f; --common-border: color-mix(in srgb, var(--text-color-1) 10%, transparent); --common-border-5: color-mix(in srgb, var(--text-color-1) 50%, transparent); --nav-action-hover: light-dark(
+    color-mix(in srgb, #1E1F1F 6%, transparent),
+    color-mix(in srgb, var(--common-base-rev) 7%, transparent)
+  ); --nav-action-hover-2: light-dark(
+    color-mix(in srgb, #1E1F1F 6%, transparent),
+    color-mix(in srgb, var(--common-base-rev) 20%, transparent)
+  ); --border-color-1: light-dark(
+    color-mix(in srgb, #000 10%, var(--body-bg)),
+    color-mix(in srgb, #ffffff 6%, var(--body-bg))
+  ); --border-color-2: color-mix(in srgb, #ffffff 6%, var(--body-bg)); --border-color-3: color-mix(in srgb, #ffffff 30%, var(--body-bg)); --border-color-4: color-mix(in srgb, #ffffff 40%, var(--body-bg)); --border-color-5: color-mix(in srgb, #ffffff 50%, var(--body-bg)); --border-color-6: color-mix(in srgb, #ffffff 60%, var(--body-bg)); --border-color-7: color-mix(in srgb, #ffffff 70%, var(--body-bg)); --border-color-8: color-mix(in srgb, #ffffff 80%, var(--body-bg)); --border-color-9: color-mix(in srgb, #ffffff 90%, var(--body-bg)); --border-color-10: color-mix(in srgb, #ffffff 95%, var(--body-bg)); --border-color-rev-1: color-mix(in srgb, #ffffff 90%, var(--body-bg)); --icon-color-1: color-mix(in srgb, #ffffff 12%, var(--body-bg)); --common-accent: light-dark(oklch(70.89% 0.185 75.67), oklch(76.89% 0.147 75.67)); --header-bg: color-mix(in srgb, #000 2%, var(--body-bg)); --header-text-color: var(--text-color-1); --sidebar-bg: light-dark(
+    #EFEFEF,
+    color-mix(in srgb, #000 20%, var(--body-bg))
+  ); --input-placeholder: light-dark(
+    var(--text-color-1),
+    var(--text-color-3)
+  ); --input-bg: var(--nav-action-hover); --input-bg-focus: light-dark(
+    color-mix(in srgb, #000 15%, var(--body-bg)),
+    color-mix(in srgb, #fff 10%, var(--body-bg))
+  ); --l-multiplier: 1.05; --c-multiplier: 1.20; --text-color-accent-0: light-dark(oklch(calc(67.3% * var(--l-multiplier)) calc(0.21 * var(--c-multiplier)) 25.039), oklch(67.3% 0.21 25.039)); --text-color-accent-1: light-dark(oklch(calc(57.85% * var(--l-multiplier)) calc(0.15 * var(--c-multiplier)) 349.06), oklch(57.85% 0.15 349.06)); --text-color-accent-2: light-dark(oklch(calc(72.4% * var(--l-multiplier)) calc(0.16 * var(--c-multiplier)) 19.59), oklch(72.4% 0.16 19.59)); --text-color-accent-3: light-dark(#DE9D77, #DE9D77); --text-color-accent-4: light-dark(#FFCF96, #FFCF96); --text-color-accent-5: light-dark(#FFB82E, #FFB82E); --text-color-accent-6: light-dark(#B8B9EE, #B8B9EE); --text-color-accent-7: light-dark(#88D2FC, #88D2FC); --text-color-accent-8: light-dark(oklch(calc(66.3% * var(--l-multiplier)) calc(0.08 * var(--c-multiplier)) 200.71), oklch(66.3% 0.08 200.71)); --text-color-accent-9: light-dark(#70D18C, #70D18C); --text-color-accent-10: light-dark(oklch(calc(69.1% * var(--l-multiplier)) calc(0.12 * var(--c-multiplier)) 151.34), oklch(69.1% 0.12 151.34)); }
+
+@-webkit-keyframes fa-author-colors { 
+  0% { background-color: var(--text-color-accent-6); }
+  10% { background-color: var(--text-color-accent-8); }
+  30% { background-color: var(--text-color-accent-2); }
+  50% { background-color: var(--text-color-accent-1); }
+  70% { background-color: var(--text-color-accent-7); }
+  90% { background-color: var(--text-color-accent-8); }
+  100% { background-color: var(--text-color-accent-3); }
+}
+
+@keyframes fa-author-colors { 
+  0% { background-color: var(--text-color-accent-6); }
+  10% { background-color: var(--text-color-accent-8); }
+  30% { background-color: var(--text-color-accent-2); }
+  50% { background-color: var(--text-color-accent-1); }
+  70% { background-color: var(--text-color-accent-7); }
+  90% { background-color: var(--text-color-accent-8); }
+  100% { background-color: var(--text-color-accent-3); }
+}
+
+@font-face { font-family: "Monaspace Argon"; font-style: normal; font-weight: 200 800; font-display: swap; src: url("/font/MonaspaceArgonVarVF[wght,wdth,slnt].woff2") format("woff2"); font-feature-settings: "calt", "ss01", "ss02", "ss03", "liga"; }
+
+a { color: var(--text-color-1); text-decoration: none; outline: none; }
+
+a:hover { text-decoration: none; }
+
+input, textarea, select, kbd { font-family: var(--font-base); }
+
+select { cursor: pointer; }
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { margin: 0px; padding: 0px; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+fieldset, img { border: 0px; }
+
+address, caption, cite, code, dfn, em, strong, th, var { font-style: normal; font-weight: normal; }
+
+ol, ul { list-style: none; }
+
+caption, th { text-align: left; }
+
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }
+
+abbr, acronym { border: 0px; }
+
+::-webkit-input-placeholder { color: var(--input-placeholder); }
+
+.icon { stroke: inherit; }
+
+.checkboxCont { cursor: pointer; }
+
+.checkboxCont .checkbox { position: relative; background: rgba(0, 0, 0, 0.1); display: inline-block; vertical-align: middle; border-radius: 20px; width: 32px; height: 18px; margin-right: 5px; top: -2px; transition: 0.15s; }
+
+.checkboxCont .checkbox::after { content: ""; border-radius: 16px; position: absolute; top: 2px; left: 2px; width: 14px; height: 14px; background: var(--border-color-5); display: block; transition: 0.15s; }
+
+.checkboxCont input[type="checkbox"] { display: none; }
+
+.checkboxCont input[type="checkbox"]:checked + .checkbox { background: var(--common-accent); }
+
+.checkboxCont input[type="checkbox"]:checked + .checkbox::after { left: 16px; background: rgb(255, 255, 255); }
+
+.checkboxCont input[type="checkbox"]:disabled + .checkbox { background: rgba(0, 0, 0, 0.1); }
+
+.checkboxCont input[type="checkbox"]:disabled + .checkbox::after { opacity: 0.5; }
+
+.checkboxCont small { color: rgba(0, 0, 0, 0.3); font-size: inherit; }
+
+.checkboxCont small.newFeature { padding: 2px 4px; border-radius: 4px; background: var(--text-color-accent-10); color: rgb(255, 255, 255); font-size: 10px; }
+
+.proBadgeSelf { display: none; }
+
+.proBadge .proBadgeSelf { bottom: -2px; display: inline-block; background: var(--text-color-accent-5); padding: 3px 5px; font-size: 9px; text-transform: uppercase; border-radius: 4px; font-weight: 700; margin-left: 10px; }
+
+#sidebar .proBadgeSelf { color: var(--header-bg); }
+
+.groupsList { margin: 3px 0px 15px; display: flex; flex-wrap: wrap; }
+
+.groupsList label { background: var(--input-bg); color: inherit; white-space: nowrap; margin: 3px; padding: 3px 6px; border-radius: 6px; cursor: pointer; display: flex; -webkit-box-align: center; align-items: center; }
+
+.groupsList label input { display: none; }
+
+.groupsList label:has(input:checked) { background: var(--common-accent); }
+
+.groupsList .privateGroup { height: 10px; margin-right: 5px; }
+
+.groupsList .privateGroup g { stroke: var(--text-color-3); }
+
+#flash-messages { position: absolute; top: 85px; left: 0px; right: 0px; z-index: 100; display: flex; -webkit-box-pack: center; justify-content: center; opacity: 1; transition: 0.2s; will-change: opacity, transform; pointer-events: auto; }
+
+#flash-messages.hidden { opacity: 0; transform: translateY(-10px) scale(0.95); pointer-events: none; }
+
+#flash-messages li { padding: 0px 30px; height: 60px; display: flex; color: var(--tooltip-text-color); border-radius: 100px; font-weight: 500; cursor: pointer; -webkit-box-align: center; align-items: center; background: var(--tooltip-bg-color); }
+
+#flash-messages.draft li { cursor: default; }
+
+#flash-messages .flashActions { margin-left: 10px; }
+
+#flash-messages .flashActions a { padding: 8px 10px; border-radius: 8px; margin-left: 5px; color: inherit; font-size: 12px; border: solid 1px var(--border-color-8); }
+
+#flash-messages .flashActions a:hover { background: var(--border-color-8); }
+
+#flash-messages svg { height: 30px; margin-right: 20px; }
+
+#flash-messages .success svg { stroke: var(--text-color-accent-9); }
+
+#flash-messages .error svg { stroke: var(--text-color-accent-0); }
+
+#flash-messages .warning svg { stroke: var(--text-color-accent-5); }
+
+.windowSettings .fieldCont, .selectCont { margin: 0px; position: relative; }
+
+.windowSettings .fieldCont input[type="text"], .windowSettings .fieldCont select, .selectCont input[type="text"], .selectCont select { background: var(--input-bg); border-radius: 6px; width: 100%; padding: 0px 0px 0px 8px; height: 34px; font-family: var(--font-base); font-size: 13px; border: none; outline: none; box-sizing: border-box; vertical-align: middle; appearance: none; }
+
+.windowSettings .fieldCont input[type="text"]:hover, .windowSettings .fieldCont select:hover, .selectCont input[type="text"]:hover, .selectCont select:hover { background: var(--input-bg-focus); }
+
+.windowSettings .fieldCont input[type="text"]:hover, .selectCont input[type="text"]:hover { background: var(--input-bg); }
+
+.windowSettings .fieldCont input[type="text"]:focus, .selectCont input[type="text"]:focus { background: var(--input-bg-focus); }
+
+.windowSettings .fieldCont label, .selectCont label { position: absolute; top: 0px; bottom: 0px; right: 5px; pointer-events: none; }
+
+.windowSettings .fieldCont svg, .selectCont svg { stroke: var(--text-color-4); position: absolute; top: 5px; right: 8px; pointer-events: none; }
+
+.pseudoAvatar { display: flex; height: 35px; width: 35px; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 100%; background: var(--text-color-accent-6); font-size: 10px; font-weight: 900; color: rgba(0, 0, 0, 0.6); box-shadow: inset 0 0 0 1px var(--common-border-5); animation: 290s ease 0s infinite normal none running fa-author-colors; text-transform: uppercase; }
+
+#modal-overlay { pointer-events: none; background-color: rgba(17, 17, 17, 0); position: fixed; top: 0px; left: 0px; width: 100dvw; height: 100dvh; z-index: 1000; }
+
+body.modalOverlayVisible #modal-overlay { pointer-events: all; background-color: rgba(17, 17, 17, 0.7); }
+
+.modalBody { color-scheme: light; position: fixed; top: 0px; left: 0px; width: 100dvw; height: 100dvh; display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; overflow: auto; color: var(--text-color-1); }
+
+.modalBody.visible { pointer-events: auto; z-index: 2000; }
+
+.modalBody.visible .modalApp { transform: scale3d(1, 1, 1); opacity: 1; pointer-events: auto; }
+
+.modalBody.hasHeader .modalApp { grid-template-rows: 90px 1fr; }
+
+.modalApp { background-color: rgb(255, 255, 255); width: 930px; min-width: 900px; border-radius: 10px; height: 85vh; min-height: 500px; overflow: hidden; display: grid; grid-template-rows: 1fr; transition-property: opacity, transform, -webkit-transform; transition-duration: 0.12s; transition-timing-function: ease-out; transform: scale3d(0.98, 0.98, 0.98); color: var(--text-color-1); }
+
+.modalApp header { padding-left: 20px; display: flex; -webkit-box-align: start; align-items: flex-start; -webkit-box-pack: center; justify-content: center; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; position: relative; }
+
+.modalApp header h1 { font-size: 23px; font-weight: 700; margin-bottom: 5px; }
+
+.modalApp header h2 { opacity: 0.5; }
+
+.modalApp .closeModal { position: absolute; top: 10px; right: 10px; display: flex; height: 35px; width: 35px; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 5px; }
+
+.modalApp .closeModal svg { pointer-events: none; }
+
+.modalApp .closeModal:hover { background-color: rgba(0, 0, 0, 0.05); text-decoration: none; }
+
+.modalApp .closeModal:active { background-color: rgba(0, 0, 0, 0.1); }
+
+.modalContent iframe { display: block; width: 100%; height: 100%; background: rgba(0, 0, 0, 0); overflow: hidden; }
+
+.modalContent:not(:has(> iframe)) { overflow: auto; padding: 20px; }
+
+.modalBody.goPro .modalContent, .modalBody.unblockRequest .modalContent { display: grid; grid-template-columns: 1fr 350px; overflow: auto; padding: 0px; }
+
+.modalBody.goPro .modalContent main, .modalBody.unblockRequest .modalContent main { padding: 0px 30px; overflow: auto; }
+
+.modalBody.goPro .modalContent main h2, .modalBody.unblockRequest .modalContent main h2 { font-size: 30px; font-weight: 800; padding-bottom: 15px; line-height: 2.8rem; letter-spacing: -0.03rem; margin-top: 35px; }
+
+.modalBody.goPro .modalContent main h2 strong, .modalBody.unblockRequest .modalContent main h2 strong { background-color: rgba(80, 162, 167, 0.2); color: rgb(80, 162, 167); font-weight: 800; padding: 4px 12px; }
+
+.modalBody.goPro .modalContent main h3, .modalBody.unblockRequest .modalContent main h3 { font-size: 17px; font-weight: 700; margin-bottom: 5px; }
+
+.modalBody.goPro .modalContent main p, .modalBody.unblockRequest .modalContent main p { opacity: 0.6; line-height: 1.3rem; }
+
+.modalBody.goPro .modalContent em, .modalBody.unblockRequest .modalContent em { border-radius: 10px; height: 50px; width: 50px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; }
+
+.modalBody.goPro .modalContent svg, .modalBody.unblockRequest .modalContent svg { width: 25px; }
+
+.modalBody.goPro .modalContent .perks, .modalBody.unblockRequest .modalContent .perks { margin-bottom: 15px; }
+
+.modalBody.goPro .modalContent .perks li, .modalBody.unblockRequest .modalContent .perks li { display: grid; grid-template-columns: 70px 1fr; margin-top: 25px; }
+
+.modalBody.goPro .modalContent .perks li:nth-child(1) em, .modalBody.unblockRequest .modalContent .perks li:nth-child(1) em { background: rgba(251, 177, 30, 0.2); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(1) em svg, .modalBody.unblockRequest .modalContent .perks li:nth-child(1) em svg { stroke: rgb(251, 177, 30); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(2) em, .modalBody.unblockRequest .modalContent .perks li:nth-child(2) em { background: rgba(80, 162, 167, 0.2); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(2) em svg, .modalBody.unblockRequest .modalContent .perks li:nth-child(2) em svg { stroke: rgb(80, 162, 167); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(3) em, .modalBody.unblockRequest .modalContent .perks li:nth-child(3) em { background: rgba(185, 77, 136, 0.2); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(3) em svg, .modalBody.unblockRequest .modalContent .perks li:nth-child(3) em svg { stroke: rgb(185, 77, 136); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(4) em, .modalBody.unblockRequest .modalContent .perks li:nth-child(4) em { background: rgba(108, 167, 80, 0.2); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(4) em svg, .modalBody.unblockRequest .modalContent .perks li:nth-child(4) em svg { stroke: rgb(108, 167, 80); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(5) em, .modalBody.unblockRequest .modalContent .perks li:nth-child(5) em { background: rgba(80, 113, 167, 0.2); }
+
+.modalBody.goPro .modalContent .perks li:nth-child(5) em svg, .modalBody.unblockRequest .modalContent .perks li:nth-child(5) em svg { stroke: rgb(80, 113, 167); }
+
+.modalBody.goPro .modalContent aside, .modalBody.unblockRequest .modalContent aside { padding: 0px 20px; background: rgba(0, 0, 0, 0.05); display: grid; grid-template-rows: 1fr 100px; box-sizing: border-box; }
+
+.modalBody.goPro .modalContent aside .brandsCont, .modalBody.unblockRequest .modalContent aside .brandsCont { padding-top: 50px; }
+
+.modalBody.goPro .modalContent aside .brandsCont .segment, .modalBody.unblockRequest .modalContent aside .brandsCont .segment { margin: 25px 0px; }
+
+.modalBody.goPro .modalContent aside .brandsCont .segment.edu svg, .modalBody.unblockRequest .modalContent aside .brandsCont .segment.edu svg { height: 50px; width: 120px; }
+
+.modalBody.goPro .modalContent aside .brandsCont p, .modalBody.unblockRequest .modalContent aside .brandsCont p { opacity: 0.7; }
+
+.modalBody.goPro .modalContent aside .brandsCont svg, .modalBody.unblockRequest .modalContent aside .brandsCont svg { width: 30px; margin: 8px; }
+
+.modalBody.goPro .modalContent aside .proActionCont, .modalBody.unblockRequest .modalContent aside .proActionCont { display: flex; -webkit-box-align: end; align-items: flex-end; -webkit-box-pack: justify; justify-content: space-between; }
+
+.modalBody.goPro .modalContent aside .proActionCont a, .modalBody.unblockRequest .modalContent aside .proActionCont a { padding: 15px 0px; border-radius: 10px; font-size: 15px; font-weight: 700; background: var(--common-accent); color: rgb(255, 255, 255); width: 100%; text-align: center; margin-bottom: 20px; }
+
+.modalBody.tinyModal .modalApp { width: 450px; min-width: 450px; height: 45vh; min-height: 300px; }
+
+.modalBody.mediumModal .modalApp { width: 700px; min-width: 700px; height: 75vh; min-height: 300px; }
+
+.modalBody.unblockRequest .modalApp { width: 850px; min-width: 850px; }
+
+.modalBody.unblockRequest .modalApp .modalContent { display: grid; }
+
+.modalBody.unblockRequest .modalApp .modalContent h3 { font-size: 14px; font-weight: 700; margin-bottom: 2px; }
+
+.modalBody.unblockRequest .modalApp .modalContent em { border-radius: 8px; height: 35px; width: 35px; }
+
+.modalBody.unblockRequest .modalApp .modalContent svg { width: 20px; }
+
+.modalBody.unblockRequest .modalApp .modalContent .perks { margin-bottom: 10px; margin-top: 10px; }
+
+.modalBody.unblockRequest .modalApp .modalContent .perks li { display: grid; grid-template-columns: 50px 1fr; margin-top: 20px; }
+
+.modalBody.unblockRequest .modalApp .helpCont { padding-bottom: 20px; }
+
+.modalBody.unblockRequest .modalApp .helpCont p { opacity: 1; margin-bottom: 20px; }
+
+.modalBody.unblockRequest .modalApp .helpCont p + p { margin-top: 50px; }
+
+.modalBody.unblockRequest .modalApp .helpCont li { margin: 15px 0px; border-radius: 10px; border: 1px solid rgba(0, 0, 0, 0.1); display: flex; -webkit-box-align: center; align-items: center; height: 60px; padding: 0px 0px 0px 15px; }
+
+.modalBody.unblockRequest .modalApp .helpCont a, .modalBody.unblockRequest .modalApp .helpCont .whitelist { background: var(--common-accent); border: solid 1px var(--common-accent); padding: 5px 10px; border-radius: 5px; font-weight: 700; margin-right: 5px; }
+
+.modalBody.unblockRequest .modalApp .helpCont a { color: var(--text-color-1); }
+
+.modalBody.unblockRequest .modalApp .helpCont .whitelist { background: none; border: 1px solid rgba(0, 0, 0, 0.1); }
+
+.modalBody.unblockRequest .modalApp .helpCont strong { font-weight: 700; }
+
+.modalBody.unblockRequest .modalApp .helpCont em { position: absolute; top: 20px; right: 20px; cursor: pointer; opacity: 0.4; }
+
+.modalBody.unblockRequest .modalApp .helpCont em:hover { text-decoration: underline; }
+
+.modalBody.unblockRequest .modalApp aside { display: flex; -webkit-box-align: center; align-items: center; }
+
+.modalBody.unblockRequest .modalApp aside h3 { font-size: 15px; font-weight: 700; margin-bottom: 5px; }
+
+.modalBody.unblockRequest .modalApp aside p { opacity: 0.6; line-height: 1.3rem; }
+
+#layout-container .hasHeader.commonLayout header, .hasHeader.commonLayout header { height: 90px; border-bottom: var(--border-color-1) 1px solid; position: relative; }
+
+.loader { width: 100%; height: 4px; position: absolute; bottom: -3px; left: 0px; }
+
+#modal-panel-options .modalContent { display: grid; grid-template-columns: 200px 1fr; }
+
+#modal-top-menu { border-right: solid 1px var(--border-color-1); padding-right: 20px; margin-right: 20px; }
+
+#modal-top-menu .commonActions { -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; }
+
+#modal-top-menu .commonActions li { margin: 0px 0px 10px; width: 100%; }
+
+#modal-top-menu .commonActions li label { width: 100%; -webkit-box-pack: start; justify-content: start; }
+
+#modal-panel-options .modalContent #panel-options-tabs .windowSettings { display: none; }
+
+#modal-panel-options .modalContent:has(#modal-top-menu li:nth-child(1) input:checked) #panel-options-tabs .windowSettings:nth-child(1) { display: block; }
+
+#modal-panel-options .modalContent:has(#modal-top-menu li:nth-child(2) input:checked) #panel-options-tabs .windowSettings:nth-child(2) { display: block; }
+
+#modal-panel-options .modalContent:has(#modal-top-menu li:nth-child(3) input:checked) #panel-options-tabs .windowSettings:nth-child(3) { display: block; }
+
+.commonForm { margin: 0px auto; }
+
+.commonForm h3 { font-size: 1.1em; font-weight: 700; margin-bottom: 20px; }
+
+.commonForm h4 { font-size: 1em; font-weight: 700; margin-bottom: 7px; }
+
+.commonForm ul { margin-bottom: 20px; }
+
+.commonForm fieldset .fieldCont { position: relative; }
+
+.commonForm fieldset label { position: absolute; top: 12px; left: 17px; font-size: 12px; color: var(--text-color-3); transition: 0.2s; pointer-events: none; opacity: 0; }
+
+.commonForm fieldset input[type="text"], .commonForm fieldset input[type="email"], .commonForm fieldset input[type="password"], .commonForm fieldset input[type="url"], .commonForm fieldset textarea, .commonForm fieldset select { outline: none; font-size: 14px; width: 100%; display: block; background: var(--border-color-1); border: 0px; transition: 150ms; border-radius: 8px; padding: 18px 17px; box-sizing: border-box; }
+
+.commonForm fieldset input[type="text"]:focus, .commonForm fieldset input[type="email"]:focus, .commonForm fieldset input[type="password"]:focus, .commonForm fieldset input[type="url"]:focus, .commonForm fieldset textarea:focus, .commonForm fieldset select:focus { box-shadow: 0 0 0 2px var(--common-accent); }
+
+.commonForm fieldset input[type="text"]:not(:placeholder-shown), .commonForm fieldset input[type="email"]:not(:placeholder-shown), .commonForm fieldset input[type="password"]:not(:placeholder-shown), .commonForm fieldset input[type="url"]:not(:placeholder-shown), .commonForm fieldset textarea:not(:placeholder-shown), .commonForm fieldset select:not(:placeholder-shown) { padding: 25px 17px 7px; }
+
+.commonForm fieldset input[type="text"]:not(:placeholder-shown) + label, .commonForm fieldset input[type="email"]:not(:placeholder-shown) + label, .commonForm fieldset input[type="password"]:not(:placeholder-shown) + label, .commonForm fieldset input[type="url"]:not(:placeholder-shown) + label, .commonForm fieldset textarea:not(:placeholder-shown) + label, .commonForm fieldset select:not(:placeholder-shown) + label { top: 7px; opacity: 1; }
+
+.commonForm fieldset textarea { height: 100px; }
+
+.commonForm fieldset select, .commonForm fieldset select:not(:placeholder-shown) { appearance: none; padding: 25px 17px 27px; }
+
+.commonForm fieldset .selectCont label { top: 7px; opacity: 1; }
+
+.commonForm fieldset .selectCont::after { content: "▾"; display: block; position: absolute; top: 9px; right: 15px; font-size: 25px; color: var(--text-color-1); pointer-events: none; }
+
+.commonForm fieldset + fieldset { border-top: solid 1px var(--border-color-1); margin-top: 30px; padding-top: 30px; }
+
+.commonForm .submitCont { margin-top: 20px; position: relative; }
+
+.commonForm .submitCont input[type="submit"] { border-radius: 8px; padding: 13px 30px; background: var(--common-accent); border: none; color: rgb(255, 255, 255); font-size: 14px; cursor: pointer; font-weight: 700; transition: 150ms; }
+
+.commonForm .submitCont input[type="submit"].deleteAction { background: transparent; margin-left: 10px; box-shadow: none; color: var(--text-color-accent-2); }
+
+.commonForm .submitCont input[type="submit"].deleteAction:hover { text-decoration: underline; }
+
+.commonForm + .commonForm { border-top: solid 1px var(--border-color-1); margin-top: 30px; padding-top: 30px; }
+
+:root { --preview-width: 360px; }
+
+#list-fiddles, #list-groups { display: grid; grid-template-columns: repeat(auto-fit, var(--preview-width)); gap: 30px; }
+
+#list-fiddles .lfCont, #list-groups .lfCont { position: relative; display: grid; gap: 15px; grid-template: "preview preview" 200px "title action" 30px / 1fr 50px; }
+
+#list-fiddles h3, #list-groups h3 { grid-area: title; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; margin-left: 8px; font-weight: 500; }
+
+#list-fiddles .lfActions, #list-groups .lfActions { grid-area: action; position: relative; right: -10px; }
+
+#list-fiddles .previewCont, #list-groups .previewCont { grid-area: preview; background: var(--nav-action-hover); border-radius: 8px; overflow: hidden; display: block; border: none; position: relative; }
+
+#list-fiddles .previewCont iframe, #list-groups .previewCont iframe { display: block; overflow: hidden; pointer-events: none; transform: scale(0.7) translateX(-110px) translateY(-64px); width: calc(var(--preview-width) + 156px); height: calc(288px); }
+
+#list-groups { grid-template-columns: repeat(auto-fit, 48%); }
+
+#list-groups .lfCont { grid-template-rows: 250px 30px; }
+
+#list-groups .previewCont .evenMore { border-radius: 8px; background-color: var(--common-base-rev); position: absolute; color: var(--text-color-5); padding: 8px 12px; top: 176px; left: 440px; font-size: 12px; font-weight: 700; box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 40px; }
+
+#list-groups .previewCont iframe, #list-groups .previewCont .fiddleContPlaceholder { position: absolute; top: 0px; left: 0px; display: block; overflow: hidden; pointer-events: none; width: calc(var(--preview-width) + 156px); height: 370px; background: var(--common-base-rev); border-radius: 18px; box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 40px; transition: transform 0.15s, -webkit-transform 0.15s; }
+
+#list-groups .previewCont .fiddleContPlaceholder { background: var(--nav-action-hover); box-shadow: none; }
+
+#list-groups .previewCont iframe:nth-child(1), #list-groups .previewCont .fcp_1 { z-index: 10; transform: scale(0.37) translateX(0px) translateY(-220px) rotate(2deg); }
+
+#list-groups .previewCont iframe:nth-child(2), #list-groups .previewCont .fcp_2 { transform: scale(0.3) translateX(-400px) translateY(-80px) rotate(-2deg); }
+
+#list-groups .previewCont iframe:nth-child(3), #list-groups .previewCont .fcp_3 { transform: scale(0.27) translateX(500px) translateY(-150px) rotate(3deg); }
+
+#list-groups .previewCont:hover iframe:nth-child(1), #list-groups .previewCont:hover .fcp_1 { transform: scale(0.4) translateX(0px) translateY(-180px) rotate(0deg); }
+
+#list-groups .previewCont:hover iframe:nth-child(2), #list-groups .previewCont:hover .fcp_2 { transform: scale(0.28) translateX(-400px) translateY(-90px) rotate(-4deg); }
+
+#list-groups .previewCont:hover iframe:nth-child(3), #list-groups .previewCont:hover .fcp_3 { transform: scale(0.25) translateX(500px) translateY(-160px) rotate(5deg); }
+
+.emptyPlaceholder { height: 100%; display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; color: var(--text-color-2); }
+
+.privateBadge, .anonBadge { position: absolute; top: -10px; left: -10px; height: 30px; width: 30px; border-radius: 15px; display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; background: var(--common-base-rev); transition: 0.15s; pointer-events: none; opacity: 1; transform: scale(1); }
+
+.privateBadge svg, .anonBadge svg { stroke: var(--text-color-rev-1); }
+
+.privateBadge.hidden, .anonBadge.hidden { opacity: 0; transform: scale(0.8); }
+
+.anonBadge { left: auto; right: -10px; width: auto; padding: 0px 10px; font-size: 12px; }
+
+#actions { margin-right: 10px; }
+
+.headerActions { height: 65px; }
+
+.headerActions, .commonActions { position: relative; display: flex; user-select: none; }
+
+.headerActions svg, .commonActions svg { max-height: 18px; max-width: 18px; pointer-events: none; }
+
+.headerActions li, .commonActions li { margin: 0px 2px; display: flex; -webkit-box-align: center; align-items: center; }
+
+.headerActions li a, .headerActions li aside, .headerActions li .fxLink, .commonActions li a, .commonActions li aside, .commonActions li .fxLink { display: flex; height: 36px; min-width: 36px; white-space: nowrap; transition: background 0.1s; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; }
+
+.headerActions li a, .headerActions li .fxLink, .commonActions li a, .commonActions li .fxLink { font-variation-settings: "wght" 500; border-radius: 8px; cursor: pointer; }
+
+.headerActions li a span, .headerActions li .fxLink span, .commonActions li a span, .commonActions li .fxLink span { margin-left: 5px; pointer-events: none; }
+
+.headerActions li a input[type="radio"], .headerActions li .fxLink input[type="radio"], .commonActions li a input[type="radio"], .commonActions li .fxLink input[type="radio"] { position: absolute; left: -900em; }
+
+.headerActions li a:has(span), .headerActions li .fxLink:has(span), .commonActions li a:has(span), .commonActions li .fxLink:has(span) { padding: 0px 10px; }
+
+.headerActions li a.mode_public svg, .headerActions li a.mode_private svg, .headerActions li .fxLink.mode_public svg, .headerActions li .fxLink.mode_private svg, .commonActions li a.mode_public svg, .commonActions li a.mode_private svg, .commonActions li .fxLink.mode_public svg, .commonActions li .fxLink.mode_private svg { display: none; }
+
+.headerActions li a.mode_public .tpPublic, .headerActions li .fxLink.mode_public .tpPublic, .commonActions li a.mode_public .tpPublic, .commonActions li .fxLink.mode_public .tpPublic { display: block; }
+
+.headerActions li a.mode_private .tpPrivate, .headerActions li .fxLink.mode_private .tpPrivate, .commonActions li a.mode_private .tpPrivate, .commonActions li .fxLink.mode_private .tpPrivate { display: block; }
+
+.headerActions li:hover a, .headerActions li:hover aside, .headerActions li:hover .fxLink, .headerActions li.active a, .commonActions li:hover a, .commonActions li:hover aside, .commonActions li:hover .fxLink, .commonActions li.active a { background: var(--nav-action-hover); }
+
+.headerActions li aside, .commonActions li aside { border-radius: 0px 8px 8px 0px; border-left: solid 1px var(--common-base); cursor: pointer; }
+
+.headerActions li aside:hover, .commonActions li aside:hover { background: var(--nav-action-hover-2); }
+
+.headerActions li:has(aside) a, .commonActions li:has(aside) a { border-radius: 8px 0px 0px 8px; }
+
+.headerActions li.proButton, .commonActions li.proButton { margin-left: 10px; }
+
+.headerActions li.proButton a, .commonActions li.proButton a { border: solid 1px color-mix(in srgb, var(--text-color-1) 10%, transparent); color: var(--common-accent); }
+
+.headerActions li.proButton a:hover, .commonActions li.proButton a:hover { border: solid 1px var(--common-accent); background: var(--common-base); }
+
+.headerActions li.runButton, .commonActions li.runButton { margin-right: 5px; }
+
+.headerActions li.runButton a, .headerActions li.runButton aside, .headerActions li.runButton .fxLink, .headerActions li.selected a, .headerActions li.selected aside, .headerActions li.selected .fxLink, .headerActions li:has(input:checked) a, .headerActions li:has(input:checked) aside, .headerActions li:has(input:checked) .fxLink, .commonActions li.runButton a, .commonActions li.runButton aside, .commonActions li.runButton .fxLink, .commonActions li.selected a, .commonActions li.selected aside, .commonActions li.selected .fxLink, .commonActions li:has(input:checked) a, .commonActions li:has(input:checked) aside, .commonActions li:has(input:checked) .fxLink { background: var(--common-accent); color: rgb(255, 255, 255); }
+
+.headerActions li.hidden, .commonActions li.hidden { display: none; }
+
+.headerActions li.divider, .commonActions li.divider { margin: 0px 10px; }
+
+.headerActions li.divider::after, .commonActions li.divider::after { content: ""; display: block; border-left: solid 1px var(--common-border); height: 20px; width: 1px; }
+
+.headerActions.smallActions, .commonActions.smallActions { flex-wrap: wrap; }
+
+.headerActions.smallActions li, .commonActions.smallActions li { margin-bottom: 5px; }
+
+.headerActions.smallActions li a, .headerActions.smallActions li aside, .headerActions.smallActions li .fxLink, .commonActions.smallActions li a, .commonActions.smallActions li aside, .commonActions.smallActions li .fxLink { height: 28px; min-width: 28px; background: var(--nav-action-hover); }
+
+.headerActions.smallActions li a, .headerActions.smallActions li .fxLink, .commonActions.smallActions li a, .commonActions.smallActions li .fxLink { font-variation-settings: "wght" 400; border-radius: 6px; }
+
+.headerActions.smallActions li a span, .headerActions.smallActions li .fxLink span, .commonActions.smallActions li a span, .commonActions.smallActions li .fxLink span { margin-left: 0px; font-size: 13px; }
+
+.headerActions.smallActions li a:has(span), .headerActions.smallActions li .fxLink:has(span), .commonActions.smallActions li a:has(span), .commonActions.smallActions li .fxLink:has(span) { padding: 0px 8px; }
+
+.tippy-box[data-theme~="light"][data-placement^="top"] > .tippy-arrow::before { border-top-color: var(--tooltip-bg-color); }
+
+.tippy-box[data-theme~="light"][data-placement^="bottom"] > .tippy-arrow::before { border-bottom-color: var(--tooltip-bg-color); }
+
+.tippy-box[data-theme~="light"][data-placement^="left"] > .tippy-arrow::before { border-left-color: var(--tooltip-bg-color); }
+
+.tippy-box[data-theme~="light"][data-placement^="right"] > .tippy-arrow::before { border-right-color: var(--tooltip-bg-color); }
+
+.tippy-box[data-theme~="light"] > .tippy-backdrop { background-color: var(--tooltip-bg-color); }
+
+.tippy-box[data-theme~="light"] > .tippy-svg-arrow { fill: var(--common-base-rev); }
+
+body .tippy-box[data-theme~="light"] { color: var(--common-base); box-shadow: 0 3px 10px -3px var(--tooltip-shadow-color); background-color: var(--tooltip-bg-color); display: flex; border-radius: 8px; font-size: 13px; text-align: center; font-weight: 500; padding: 1px; max-width: 400px !important; }
+
+body .tippy-box[data-theme~="light"] kbd { color: var(--text-color-3); display: inline-block; font-size: 11px; font-weight: 500; margin-top: 5px; }
+
+body .tippy-box[data-theme~="light"] kbd.pro { background: var(--common-accent); padding: 3px 6px; font-size: 9px; text-transform: uppercase; border-radius: 4px; color: var(--common-base); font-weight: 700; }
+
+body .tippy-box[data-theme~="light"] code { font-size: 11px; background: rgba(0, 0, 0, 0.1); padding: 1px 4px; border-radius: 6px; margin-right: 5px; }
+
+body .tippy-box[data-theme~="light"] strong { font-weight: 700; }
+
+.tippy-content:has(.windowSettings) { padding: 0px; text-align: left; }
+
+.profileTooptipCont { text-align: left; margin-top: 10px; padding: 0px 10px; font-size: 0.9em; }
+
+.profileTooptipCont h4 { font-size: 9px; color: var(--text-color-2); text-transform: uppercase; letter-spacing: 1px; }
+
+.ptcUserInfo { margin: 10px 0px 20px; display: flex; -webkit-box-align: center; align-items: center; }
+
+.ptcUserInfo .pseudoAvatar { height: 50px; width: 50px; font-size: 15px; box-shadow: inset 0 0 0 2px var(--common-border-5); }
+
+.ptcUserInfo .ptcAuthorName { margin-left: 10px; font-weight: 700; font-size: 1.5em; }
+
+.ptcUserInfo .ptcAuthorName a { color: var(--text-color-6); }
+
+.ptcBasicInfo svg { width: 16px; stroke: var(--common-accent); margin-right: 5px; }
+
+.ptcBasicInfo p { display: flex; -webkit-box-align: center; align-items: center; }
+
+.ptcBasicInfo a { color: var(--common-accent); font-weight: 400; text-decoration: underline; }
+
+.socialInfo { margin: 20px 0px 15px; display: flex; gap: 5px; }
+
+.socialInfo a { background-color: var(--tooltip-hover); padding: 4px 8px; border-radius: 4px; color: var(--text-color-6); }
+
+.socialInfo a:hover { background-color: var(--common-accent); color: var(--text-color-1); }
+
+.menuList { display: none; text-align: left; width: 230px; margin: 4px 0px; }
+
+.menuList a { color: var(--text-color-rev-1); display: flex; -webkit-box-align: center; align-items: center; padding: 8px 10px; border-radius: 8px; font-weight: 500; }
+
+.menuList a:hover { background-color: var(--tooltip-hover); }
+
+.menuList svg { margin-right: 6px; }
+
+.withSeparator { border-top: solid 1px var(--tooltip-hover); margin-top: 10px; padding-top: 10px; }
+
+.tippy-box .menuList { display: block; }
+
+.tippy-box[data-animation="scale-subtle"][data-placement^="top"] { transform-origin: center bottom; }
+
+.tippy-box[data-animation="scale-subtle"][data-placement^="bottom"] { transform-origin: center top; }
+
+.tippy-box[data-animation="scale-subtle"][data-placement^="left"] { transform-origin: right center; }
+
+.tippy-box[data-animation="scale-subtle"][data-placement^="right"] { transform-origin: left center; }
+
+.tippy-box[data-animation="scale-subtle"][data-state="hidden"] { transform: scale(0.8); opacity: 0; }
+
+.twitterCont img { display: block; }
+
+#sidebar #fallback { opacity: 0; display: none; pointer-events: none; transition: 0.15s; }
+
+#sidebar #fallback a:hover { text-decoration: none; }
+
+#sidebar #fallback h3 { font-size: 13px; line-height: 19px; color: var(--text-color-1); padding: 25px 12px 12px; font-weight: 400; }
+
+#sidebar #fallback img { width: 100%; display: block; }
+
+#sidebar #fallback.show { bottom: 0px; left: 0px; right: 0px; opacity: 1; pointer-events: auto; }
+
+#sidebar #fallback::before { content: "ADS BY JSFIDDLE"; font-size: 8px; letter-spacing: 1px; position: absolute; top: 0px; right: 0px; color: var(--text-color-3); border-bottom-color: ; border-bottom-style: ; border-bottom-width: ; border-left-color: ; border-left-style: ; border-left-width: ; border-image-source: ; border-image-slice: ; border-image-width: ; border-image-outset: ; border-image-repeat: ; border-top: 0px; border-right: 0px; padding: 3px 6px; border-bottom-left-radius: 6px; }
+
+#sidebar #carbonads, #sidebar #ethical-sponsor { position: relative; }
+
+#sidebar #carbonads .carbon-wrap, #sidebar #carbonads .ea-content, #sidebar #ethical-sponsor .carbon-wrap, #sidebar #ethical-sponsor .ea-content { margin: 0px; padding: 0px; max-width: 250px; display: grid; grid-template-areas: "desc" "img"; }
+
+#sidebar #carbonads .carbon-img, #sidebar #carbonads .ea-content > a, #sidebar #ethical-sponsor .carbon-img, #sidebar #ethical-sponsor .ea-content > a { width: 100%; display: block; grid-area: img; text-align: center; }
+
+#sidebar #carbonads .carbon-img img, #sidebar #carbonads .ea-content > a img, #sidebar #ethical-sponsor .carbon-img img, #sidebar #ethical-sponsor .ea-content > a img { display: inline-block; width: 150px; max-width: 150px; min-width: 150px; height: 108px; }
+
+#sidebar #carbonads .carbon-text, #sidebar #carbonads .ea-text, #sidebar #ethical-sponsor .carbon-text, #sidebar #ethical-sponsor .ea-text { grid-area: desc; clear: both; display: block; font-size: 12px; line-height: 19px; color: var(--text-color-1); padding: 29px 12px 12px; font-weight: 400; margin-top: 0px; text-align: left; }
+
+#sidebar #carbonads a, #sidebar #ethical-sponsor a { color: inherit; }
+
+#sidebar #carbonads a:hover, #sidebar #ethical-sponsor a:hover { text-decoration: none; }
+
+#sidebar #carbonads .ea-headline, #sidebar #ethical-sponsor .ea-headline { display: block; font-weight: 700; color: inherit; }
+
+#sidebar #carbonads .ea-cta, #sidebar #carbonads .ea-domain, #sidebar #ethical-sponsor .ea-cta, #sidebar #ethical-sponsor .ea-domain { display: none; }
+
+#sidebar #carbonads .carbon-poweredby, #sidebar #carbonads .ea-callout, #sidebar #ethical-sponsor .carbon-poweredby, #sidebar #ethical-sponsor .ea-callout { font-size: 8px; letter-spacing: 1px; position: absolute; top: 0px; right: 0px; color: var(--text-color-3); border-bottom-color: ; border-bottom-style: ; border-bottom-width: ; border-left-color: ; border-left-style: ; border-left-width: ; border-image-source: ; border-image-slice: ; border-image-width: ; border-image-outset: ; border-image-repeat: ; border-top: 0px; border-right: 0px; padding: 3px 6px; border-bottom-left-radius: 6px; text-transform: uppercase; margin: 0px; font-style: normal; }
+
+#sidebar #carbonads .carbon-poweredby a, #sidebar #carbonads .ea-callout a, #sidebar #ethical-sponsor .carbon-poweredby a, #sidebar #ethical-sponsor .ea-callout a { font-size: 8px; }
+
+#carbon-cover .carbon-main { position: relative; top: -20px; }
+
+html { color-scheme: dark; }
+
+body { font-family: var(--font-base); background: var(--body-bg); font-size: 14px; color: var(--text-color-1); font-optical-sizing: auto; font-style: normal; font-variation-settings: "slnt" 0; }
+
+svg { height: 18px; }
+
+a { color: var(--text-color-1); text-decoration: none; outline: none; }
+
+a:hover { text-decoration: none; }
+
+h1 { box-sizing: border-box; }
+
+h1 a { display: flex; height: 65px; width: 60px; -webkit-box-align: center; align-items: center; padding-left: 15px; }
+
+h1 svg { height: 33px; width: 46px; stroke: var(--common-accent); }
+
+.seoTitle { opacity: 0; position: absolute; top: -1000px; }
+
+#user-page header { height: 65px; border-bottom: solid 1px var(--common-border); display: grid; grid-template-columns: auto 1fr; position: sticky; top: 0px; left: 0px; z-index: 100; background: var(--header-bg); }
+
+#user-page header .headerActions { display: flex; -webkit-box-pack: end; justify-content: flex-end; margin-right: 10px; }
+
+#layout-container { max-width: 1140px; margin: 0px auto 40px; }
+
+#menu { margin: 40px 0px; display: flex; -webkit-box-pack: center; justify-content: center; }
+
+#menu .commonActions li { margin: 0px 5px; }
+
+#menu a { font-variation-settings: "wght" 500; }
+
+#simple-search { margin: 0px auto 40px; max-width: 500px; border-radius: 8px; background: var(--border-color-1); display: grid; grid-template-columns: 1fr 180px; position: relative; }
+
+#simple-search input, #simple-search select { border: none; appearance: none; background: rgba(0, 0, 0, 0); color: var(--text-color-1); height: 36px; padding: 0px 10px; font-size: 13px; position: relative; z-index: 5; outline: none; }
+
+#simple-search input:focus, #simple-search select:focus { outline: none; }
+
+#simple-search:has(input:focus) { box-shadow: 0 0 0 2px var(--common-accent); }
+
+#simple-search input { border-right: solid 1px var(--body-bg); }
+
+#simple-search select { padding-right: 30px; }
+
+#simple-search svg { stroke: var(--text-color-1); pointer-events: none; position: absolute; top: 10px; right: 10px; width: 16px; }
+
+.commonForm { max-width: 660px; }
+
+.commonForm fieldset .fieldsetCont { display: grid; grid-template-columns: 320px 320px; gap: 20px; }
+
+.privacyForm p { margin-bottom: 10px; }
+
+.removeAccount { color: var(--text-color-accent-2); }
+
+.formWarning { color: var(--text-color-accent-2); margin-left: 5px; }
+
+.formWarning:hover { text-decoration: none; }
+
+.paginator { text-align: center; margin-bottom: 20px; }
+
+.paginator li { display: inline-block; }
+
+.paginator a, .paginator span { display: inline-block; padding: 10px; border-bottom: solid 2px var(--common-accent); font-weight: 700; transition: 0.1s; }
+
+.paginator a { font-weight: 400; border-bottom: 2px solid rgba(0, 0, 0, 0); }
+
+.paginator a:hover { border-bottom: solid 2px var(--common-accent); color: var(--text-color-1); text-decoration: none; }
+
+.messages { margin: 20px auto; max-width: 660px; }
+
+.messages li { margin-bottom: 10px; padding: 14px 20px; border-radius: 8px; font-weight: 600; color: var(--text-color-1); display: flex; -webkit-box-align: center; align-items: center; }
+
+.messages svg { margin-right: 10px; height: 24px; }
+
+.messages .success { background: var(--text-color-accent-10); }
+
+.messages .error { background: var(--text-color-accent-0); }
+
+.errorlist { margin-left: 222px; }
+
+.blankslate { text-align: center; margin-top: 70px; }
+
+.blankslate h3 { font-weight: 700; font-size: 22px; margin: 0px 0px 10px; padding: 0px; }
+
+.blankslate p { color: var(--text-color-3); }
+
+.blankslate > svg { margin-bottom: 20px; height: 55px; width: 55px; }
+
+.blankslate ul { margin-top: 40px; -webkit-box-pack: center; justify-content: center; }
+
+#public-profile-header { max-width: 70%; margin: 40px auto 80px; }
+
+#public-profile-header .pseudoAvatar { margin-left: -10px; height: 100px; width: 100px; font-size: 30px; box-shadow: inset 0 0 0 5px var(--common-border-5); }
+
+#public-profile-header h3 { margin: 15px 0px 10px; font-size: 4.1em; font-weight: 900; letter-spacing: -1px; }
+
+#public-profile-header .basicInfo, #public-profile-header .socialInfo { display: flex; }
+
+#public-profile-header .basicInfo li, #public-profile-header .socialInfo li { display: flex; -webkit-box-pack: center; justify-content: center; margin-right: 10px; }
+
+#public-profile-header .socialInfo { margin-top: 30px; display: flex; }
+
+#public-profile-header .socialInfo li { margin-right: 10px; }
+
+#public-profile-header .socialInfo a { padding: 7px 10px; border-radius: 8px; font-size: 0.85em; background-color: var(--border-color-1); color: var(--text-color-3); }
+
+#public-profile-header .socialInfo a:hover { background-color: var(--common-accent); color: var(--text-color-1); }
+
+#public-profile-header svg { height: 16px; stroke: var(--common-accent); }
+
+.groupsList { display: none; }
+
+.groupsList.open { display: flex; }
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-a0cb17a5-335e-41e0-b2b2-01ecb7c0f148@mhtml.blink
+
+@charset "utf-8";
+
+.tippy-box[data-animation="fade"][data-state="hidden"] { opacity: 0; }
+
+[data-tippy-root] { max-width: calc(-10px + 100vw); }
+
+.tippy-box { position: relative; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); border-radius: 4px; font-size: 14px; line-height: 1.4; white-space: normal; outline: 0px; transition-property: transform, visibility, opacity; }
+
+.tippy-box[data-placement^="top"] > .tippy-arrow { bottom: 0px; }
+
+.tippy-box[data-placement^="top"] > .tippy-arrow::before { bottom: -7px; left: 0px; border-width: 8px 8px 0px; border-top-color: initial; transform-origin: center top; }
+
+.tippy-box[data-placement^="bottom"] > .tippy-arrow { top: 0px; }
+
+.tippy-box[data-placement^="bottom"] > .tippy-arrow::before { top: -7px; left: 0px; border-width: 0px 8px 8px; border-bottom-color: initial; transform-origin: center bottom; }
+
+.tippy-box[data-placement^="left"] > .tippy-arrow { right: 0px; }
+
+.tippy-box[data-placement^="left"] > .tippy-arrow::before { border-width: 8px 0px 8px 8px; border-left-color: initial; right: -7px; transform-origin: left center; }
+
+.tippy-box[data-placement^="right"] > .tippy-arrow { left: 0px; }
+
+.tippy-box[data-placement^="right"] > .tippy-arrow::before { left: -7px; border-width: 8px 8px 8px 0px; border-right-color: initial; transform-origin: right center; }
+
+.tippy-box[data-inertia][data-state="visible"] { transition-timing-function: cubic-bezier(0.54, 1.5, 0.38, 1.11); }
+
+.tippy-arrow { width: 16px; height: 16px; color: rgb(51, 51, 51); }
+
+.tippy-arrow::before { content: ""; position: absolute; border-color: transparent; border-style: solid; }
+
+.tippy-content { position: relative; padding: 5px 9px; z-index: 1; }
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----
+Content-Type: text/html
+Content-ID: <frame-D1CACA9EBE705D13CAB072BD38615ECA@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://fiddle.jshell.net/xy4tje93/listing_embed/?version=0?disableModals
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-3b97c12e-0329-4a44-b69c-8ce7d0eb5c4c@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-b64e5333-93bd-44eb-9a9f-6ec772667a04@mhtml.blink" />
+    
+    <title>Import fiddle as a JS Module - chain fiddles together</title>
+    
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    
+
+
+
+    
+
+    
+
+    
+
+  </head>
+  <body>
+    <p>Hello world</p>
+  
+
+    
+
+  
+
+  
+</body></html>
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-b64e5333-93bd-44eb-9a9f-6ec772667a04@mhtml.blink
+
+@charset "utf-8";
+
+:root { color-scheme: light; }
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://jsfiddle.net/rLd4uyep.css
+
+@charset "utf-8";
+
+body { background: rgb(240, 243, 236); }
+
+p { font-family: Helvetica; border: 3px solid rgb(179, 30, 26); padding: 10px; border-radius: 8px; }
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-3b97c12e-0329-4a44-b69c-8ce7d0eb5c4c@mhtml.blink
+
+@charset "utf-8";
+
+@import url("//jsfiddle.net/rLd4uyep.css");
+------MultipartBoundary--bA6eE7wPpNGkOo4D33ywzV1pR5BDBHsHaoW2WBNaKZ------
